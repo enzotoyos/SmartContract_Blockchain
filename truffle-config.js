@@ -59,7 +59,7 @@ module.exports = {
       provider: () =>
         new HDWalletProvider(
           PASS_PHRASE,
-          `https://polygon-mumbai.g.alchemy.com/v2/7c_UKNBcui_JCX2y86szkyz9IFoUpghS`
+          `https://polygon-mumbai.g.alchemy.com/v2/agIZxEZBfmMy44Enm3ZGH3KZIL4dGDYF`
         ),
       network_id: 80001,
       confirmations: 2,
